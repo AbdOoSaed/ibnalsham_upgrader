@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/2001/XSL/Transform" version="1.0" >
+<xsl:param name='count'>28</xsl:param>
 <rss version="2.0"
     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <item>
             <title>Version 1.0.5</title>
-            <sparkle:version>1.0.5</sparkle:version>
-            <enclosure url="https://play.google.com/store/apps/details?id=nour.ghafir.ibnalsham" sparkle:version="1.0.5" sparkle:os="android" />
+            <sparkle:version>{$count}</sparkle:version>
+            <enclosure url="https://play.google.com/store/apps/details?id=nour.ghafir.ibnalsham" sparkle:version='{$count}' sparkle:os="android" />
             <sparkle:tags>
                 <sparkle:criticalUpdate />
             </sparkle:tags>
         </item>
     </channel>
 </rss>
+</xsl:stylesheet>
