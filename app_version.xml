@@ -15,9 +15,9 @@
 			</sparkle:tags>
 		</item>
 		    <item>
-        <title>Version 1.0.5</title>
-        <sparkle:version>1.0.5</sparkle:version>
-			    			<enclosure url="https://play.google.com/store/apps/details?id=nour.ghafir.ibnalsham" sparkle:version="1.0.5" sparkle:os="android" />
+        <title>Version 1.0.4</title>
+        <sparkle:version>1.0.4</sparkle:version>
+			    			<enclosure url="https://play.google.com/store/apps/details?id=nour.ghafir.ibnalsham" sparkle:version="1.0.4" sparkle:os="android" />
         <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
     </item>
 	</channel>
