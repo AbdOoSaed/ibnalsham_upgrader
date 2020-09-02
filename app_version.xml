@@ -3,21 +3,12 @@
     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <item>
-            <title>Version 1.0.5</title>
-            <sparkle:version>1.0.5</sparkle:version>
-            <enclosure url="https://play.google.com/store/apps/details?id=nour.ghafir.ibnalsham" sparkle:version="1.0.5" sparkle:os="android" />
-            <enclosure url="https://apps.apple.com/eg/app/ibnalsham/id1526354877" sparkle:version="1.0.5" sparkle:os="iOS" />
-            <sparkle:tags>
-                <sparkle:criticalUpdate />
-            </sparkle:tags>
-        </item>
-        <item>
             <title>Version 1.0.4</title>
             <sparkle:version>1.0.4</sparkle:version>
             <enclosure url="https://play.google.com/store/apps/details?id=nour.ghafir.ibnalsham" sparkle:version="1.0.4" sparkle:os="android" />
             <sparkle:tags>
-                  <sparkle:criticalUpdate />
-              </sparkle:tags>
-      </item>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+        </item>
     </channel>
 </rss>
