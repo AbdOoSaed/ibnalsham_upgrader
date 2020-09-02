@@ -6,7 +6,7 @@
     <channel>
         <item>
             <title>Version 1.0.5</title>
-            <sparkle:version>{$count}</sparkle:version>
+            <sparkle:version>'{$count}'</sparkle:version>
             <enclosure url="https://play.google.com/store/apps/details?id=nour.ghafir.ibnalsham" sparkle:version='{$count}' sparkle:os="android" />
             <sparkle:tags>
                 <sparkle:criticalUpdate />
